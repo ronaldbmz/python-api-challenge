@@ -15,3 +15,5 @@ Completed the "WeatherPy" analysis by first extracting the cities names using ci
 
 ## VacationPy
 Completed and uploaded "vacation.py" jupyter notebook with first developing the heatmap geo chart across all the cities using google api key and also extracted the hotel information based on the ideal cities (with temp 70 tp 80, cloudiness equal to 0 and wind speed less than 10).
+
+As the last step, created the geo chart showing the hotels location on the map for all the ideal cities.
