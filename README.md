@@ -1,8 +1,9 @@
 # python-api-challenge
 
+## WeatherPy
 Completed the "WeatherPy" analysis by first extracting the cities names using citypy file and then used the API approach to get the weather records of all the cities. Also, as the last steps created the scatter and linear regression plots to identify the realtion between variables like Lat, Lon, Max Temp, Humidity%, Cloudines and Wind Speed.
 
-## Following are some of the insights generated from the plots:
+### Following are some of the insights generated from the plots:
 - The Latitude of the city increases, Temperature decreases.
 - There is no direct relationship between Latitude of city and Humidity %
 - There is no direct relationship between Latitude of city and Cloudiness
@@ -12,3 +13,5 @@ Completed the "WeatherPy" analysis by first extracting the cities names using ci
 - We can observe that in case of both Northern and Southern as the Latitude increases there is very slight increase in Cloudiness%.
 - we can observe that in case of Northern as the Latitude increases there is very slight increase in Wind Speed but in case of Southern as the Latitude increases there is very slight decrease in Wind Speed.
 
+## VacationPy
+Completed and uploaded "vacation.py" jupyter notebook with first developing the heatmap geo chart across all the cities using google api key and also extracted the hotel information based on the ideal cities (with temp 70 tp 80, cloudiness equal to 0 and wind speed less than 10).
